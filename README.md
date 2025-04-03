@@ -73,3 +73,8 @@ java Main
 ```
 **3. Verify the output:**
 - Check the `output.txt` file for the results
+
+--- 
+### Documentation
+
+[Anagram Finder- Methodology and Scalability Analysis.pdf](https://github.com/yettensyvus/anagram-finder/blob/787dc269fdf3844521a052c70ae3377657d2571c/documentation/Anagram%20Finder-%20Methodology%20and%20Scalability%20Analysis.pdf)
